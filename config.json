@@ -1,0 +1,27 @@
+{
+  "host": "server.ip",
+  "port": 25565,
+  "username": "HienBot",
+  "auth": "offline",
+  "version": "1.20.4",
+
+  "auth_password": "123456",
+
+  "cooldown": 35,
+
+  "chest": {
+    "x": 120,
+    "y": 64,
+    "z": -340,
+    "radius": 2
+  },
+
+  "discord": {
+    "token": "PUT_TOKEN_HERE",
+    "channels": {
+      "chat": ["server-chat", "controlbot"],
+      "kits": ["kits"],
+      "coords": ["concac"]
+    }
+  }
+}
