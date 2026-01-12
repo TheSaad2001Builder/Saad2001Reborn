@@ -37,6 +37,23 @@ const randomMessages = [
   "&5Powered by Mineflayer"
 ]
 
+/* ───── KITS SYSTEM (IN CODE) ───── */
+
+const KITS = {
+  basic: {
+    name: "&aBasic Kit",
+    chest: { x: 120, y: 64, z: -340, radius: 2 }
+  },
+  pvp: {
+    name: "&cPvP Kit",
+    chest: { x: 140, y: 65, z: -350, radius: 2 }
+  },
+  rich: {
+    name: "&6Rich Kit",
+    chest: { x: 200, y: 70, z: -500, radius: 3 }
+  }
+}
+
 /* ───── BOT CREATION ───── */
 
 function startBot() {
