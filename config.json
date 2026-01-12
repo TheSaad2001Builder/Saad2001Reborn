@@ -9,13 +9,6 @@
 
   "cooldown": 35,
 
-  "chest": {
-    "x": 120,
-    "y": 64,
-    "z": -340,
-    "radius": 2
-  },
-
   "discord": {
     "token": "PUT_TOKEN_HERE",
     "channels": {
